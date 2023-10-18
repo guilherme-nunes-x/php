@@ -5,29 +5,31 @@
 .p1{
     background-color:red ;
     height: 350px;
-    width: 900px;
-    padding-top: 20px;
+    padding: 40px;
 
 }
 .p2{
     background-color:blue ;
     height: 350px;
-    width: 900px;
+    padding: 45px ;
 }
 .p3{
     background-color:yellow ;
     height: 350px;
-    width: 900px;
+    padding: 45px;
 }
 #pc1{
     background-color:rgb(0, 0, 0) ;
     height: 150x;
-    width: 150px;
+    margin: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right:40px;
+}
+p{
+    padding-top: 35px;
+    color: aliceblue;
     text-align: center;
-    padding-left: 150px;
-    padding-bottom: 125px;
-    color: antiquewhite;
-    margin-left:300px;
-    padding-top: 125px;
-    right:20% ;
+    font-size: 125px;
 }
