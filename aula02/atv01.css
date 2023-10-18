@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.p1{
+    background-color:red ;
+    height: 350px;
+    width: 900px;
+    padding-top: 20px;
+
+}
+.p2{
+    background-color:blue ;
+    height: 350px;
+    width: 900px;
+}
+.p3{
+    background-color:yellow ;
+    height: 350px;
+    width: 900px;
+}
+#pc1{
+    background-color:rgb(0, 0, 0) ;
+    height: 150x;
+    width: 150px;
+    text-align: center;
+    padding-left: 150px;
+    padding-bottom: 125px;
+    color: antiquewhite;
+    margin-left:300px;
+    padding-top: 125px;
+    right:20% ;
+}

@@ -1,0 +1,41 @@
+html,body{
+    font-family: sans-serif;
+    color: rgb(233, 235, 237);
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 45%;
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+    font-size: 40px;
+    height: 120px;
+    width: 300px;
+    margin-left: 120px;
+    padding-right: 80px;
+}
+h2{
+    background-color: aquamarine;
+    padding-right: 80px;
+    height: 120px;
+    margin-left: 120px;
+    text-align: center;
+}
+#exp{
+    background-color: rgb(81, 165, 165);
+}
+.hi{
+background-color: rgb(8, 104, 117);
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+}
+p{
+ background-color: blanchedalmond
+}
+p{
+    text-align: center;
+    background-color: rgb(34, 150, 165);
+    padding-right: 80px;
+    height: 120px;
+    margin-left: 120px;
+
+}

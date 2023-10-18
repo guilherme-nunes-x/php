@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    background-color: aqua
+}
+.estilo{
+    background-color: forestgreen;
+}
+.conteudo{
+    background-color: crimson;
+height: 45px;
+}
+p{
+    background-color: purple;
+}
+.conteudo p{
+    background-color: crimson;
+}
+.conteudo #txt{
+    font-size: 29px;
+
+}
+body{
+    text-align: center;
+}
