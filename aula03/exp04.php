@@ -9,14 +9,23 @@
     p{
         background-color:green;
     }
+    .center{
+    background-color: red; 
+    }
+    p.center{
+    background-color: yellow; 
+    }
 </style>
 </head>
 <body>
 <p id="fazer"> paragrafo 1</p>
 <p style ="background-color: pink;"> paragrafo 1</p>
-<p > paragrafo 1</p>
+<p> paragrafo 1</p>
 <p> paragrafo 1</p>
 
+    <p class = "center"> paragrafo</p>
+
+    <h1 class = "center ">titulo </h1>
 
 </body>
 </html>
