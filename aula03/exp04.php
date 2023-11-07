@@ -9,8 +9,8 @@
     p{
         background-color:green;
     }
-    .center{
-    background-color: red; 
+    h1.center{
+    background-color: blue; 
     }
     p.center{
     background-color: yellow; 
