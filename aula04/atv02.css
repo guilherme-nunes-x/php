@@ -1,0 +1,26 @@
+#vs1{
+    background-color: coral;
+    height: 300px;
+    padding-top: 60px;
+}
+#pi{
+    margin-left: 625px;
+    margin-right: 625px; 
+    background-color: aqua;
+    text-align: center;
+    
+}
+#v1{
+background-image: url(corvinus.jpeg);
+width: 250px;
+height: 150px;
+margin-left: 150px;
+margin-top: -198px;
+}
+#v2{
+background-image: url(familias_senadoriais.jpeg);
+width: 250px;
+height: 150px;
+margin-left: 850px;
+margin-top: 25px;
+}

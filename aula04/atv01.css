@@ -1,0 +1,13 @@
+#img{
+    background-image: url(corvinus.jpeg);
+    background-repeat: no-repeat;
+   /* background-position: top right;*/
+    height: 300px;
+    width: 300px;
+    border: blue px solid;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+p{
+    font-size: 75px;
+}
