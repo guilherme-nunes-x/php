@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.box{
+    height: 600px;
+    display: grid;
+    grid-template-areas: "img1 title img2"
+                       "lateral content content"
+                        "info info info";        
+grid-template-rows: 100px 1fr 100px;
+grid-template-columns: 100px 1fr 100px;
+}
+.lateral{
+background-color: blue;
+grid-area: lateral;
+}
+.title{
+background-color: cadetblue;
+grid-area: title;
+text-align: center;
+font-size: 50px;
+padding-top: 24px;
+}
+.content{
+background-color: crimson;
+grid-area: content;
+}
+.info{
+    background-color: darkred;
+    grid-area: info;
+}
+.img1{
+   grid-area: img1; 
+}
+.img2{
+    grid-area: img2;
+}
